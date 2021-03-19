@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Angwara Paolaklaem
-- 🌱 I’m currently learning in test automation testing tools like Cypress
+- 🌱 I’m currently learning in test automation testing tools like Cypress, Selenium
 ### Get in touch
 - instagram: https://www.instagram.com/fahfluffy_/
 - facebook: https://www.facebook.com/fahangwara/
